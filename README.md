@@ -1,4 +1,3 @@
-# 💫About Me :
 # 👋 Hi there! I'm Bui Minh Quan
 
 🎓 I'm a student at the Posts and Telecommunications Institute of Technology (PTIT)  
