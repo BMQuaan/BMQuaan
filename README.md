@@ -3,7 +3,7 @@
 # 💫 About Me:
 🎓 I'm a student at the Posts and Telecommunications Institute of Technology (PTIT)  
 💻 Major: Information Technology  
-🚀 Passionate about web development, data structures & algorithms, and system design
+🚀 Passionate about web development, data structures & algorithms,  
 ✍️ I love building web apps & learning new technologies  
 📫 Reach me at: mquan347bbb@gmail.com
 ## 🌐 Socials:
