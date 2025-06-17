@@ -1,7 +1,9 @@
-<h1>👋 Hi there! I'm Bui Minh Quan</h1>
-## 💫 About Me:
+<h1>👋 Hi there! I'm Bui Minh Quan!</h1>
+
+# 💫 About Me:
 🎓 I'm a student at the Posts and Telecommunications Institute of Technology (PTIT)  
 💻 Major: Information Technology  
+🚀 Passionate about **web development**, **data structures & algorithms**, and **system design**  
 ✍️ I love building web apps & learning new technologies  
 📫 Reach me at: mquan347bbb@gmail.com
 ## 🌐 Socials:
